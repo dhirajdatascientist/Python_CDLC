@@ -1,4 +1,4 @@
-# Python code to connect to an SQLite3 database and print a success message upon a successful connection:
+### Python code to connect to an SQLite3 database and print a success message upon a successful connection:
 
 ```python
 import sqlite3
